@@ -1,0 +1,16 @@
+D:\Projects\ООП_ПР2_вар8\bin\Debug\net8.0-windows\ООП_ПР2_вар8.exe
+D:\Projects\ООП_ПР2_вар8\bin\Debug\net8.0-windows\ООП_ПР2_вар8.deps.json
+D:\Projects\ООП_ПР2_вар8\bin\Debug\net8.0-windows\ООП_ПР2_вар8.runtimeconfig.json
+D:\Projects\ООП_ПР2_вар8\bin\Debug\net8.0-windows\ООП_ПР2_вар8.dll
+D:\Projects\ООП_ПР2_вар8\bin\Debug\net8.0-windows\ООП_ПР2_вар8.pdb
+D:\Projects\ООП_ПР2_вар8\obj\Debug\net8.0-windows\ООП_ПР2_вар8.Form1.resources
+D:\Projects\ООП_ПР2_вар8\obj\Debug\net8.0-windows\ООП_ПР2_вар8.csproj.GenerateResource.cache
+D:\Projects\ООП_ПР2_вар8\obj\Debug\net8.0-windows\ООП_ПР2_вар8.GeneratedMSBuildEditorConfig.editorconfig
+D:\Projects\ООП_ПР2_вар8\obj\Debug\net8.0-windows\ООП_ПР2_вар8.AssemblyInfoInputs.cache
+D:\Projects\ООП_ПР2_вар8\obj\Debug\net8.0-windows\ООП_ПР2_вар8.AssemblyInfo.cs
+D:\Projects\ООП_ПР2_вар8\obj\Debug\net8.0-windows\ООП_ПР2_вар8.csproj.CoreCompileInputs.cache
+D:\Projects\ООП_ПР2_вар8\obj\Debug\net8.0-windows\ООП_ПР2_вар8.dll
+D:\Projects\ООП_ПР2_вар8\obj\Debug\net8.0-windows\refint\ООП_ПР2_вар8.dll
+D:\Projects\ООП_ПР2_вар8\obj\Debug\net8.0-windows\ООП_ПР2_вар8.pdb
+D:\Projects\ООП_ПР2_вар8\obj\Debug\net8.0-windows\ООП_ПР2_вар8.genruntimeconfig.cache
+D:\Projects\ООП_ПР2_вар8\obj\Debug\net8.0-windows\ref\ООП_ПР2_вар8.dll
