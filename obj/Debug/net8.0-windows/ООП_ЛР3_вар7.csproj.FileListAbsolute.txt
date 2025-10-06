@@ -1,0 +1,17 @@
+D:\Projects\ООП_ЛР3_вар7\bin\Debug\net8.0-windows\ООП_ЛР3_вар7.exe
+D:\Projects\ООП_ЛР3_вар7\bin\Debug\net8.0-windows\ООП_ЛР3_вар7.deps.json
+D:\Projects\ООП_ЛР3_вар7\bin\Debug\net8.0-windows\ООП_ЛР3_вар7.runtimeconfig.json
+D:\Projects\ООП_ЛР3_вар7\bin\Debug\net8.0-windows\ООП_ЛР3_вар7.dll
+D:\Projects\ООП_ЛР3_вар7\bin\Debug\net8.0-windows\ООП_ЛР3_вар7.pdb
+D:\Projects\ООП_ЛР3_вар7\obj\Debug\net8.0-windows\ООП_ЛР3_вар7.Form1.resources
+D:\Projects\ООП_ЛР3_вар7\obj\Debug\net8.0-windows\ООП_ЛР3_вар7.csproj.GenerateResource.cache
+D:\Projects\ООП_ЛР3_вар7\obj\Debug\net8.0-windows\ООП_ЛР3_вар7.GeneratedMSBuildEditorConfig.editorconfig
+D:\Projects\ООП_ЛР3_вар7\obj\Debug\net8.0-windows\ООП_ЛР3_вар7.AssemblyInfoInputs.cache
+D:\Projects\ООП_ЛР3_вар7\obj\Debug\net8.0-windows\ООП_ЛР3_вар7.AssemblyInfo.cs
+D:\Projects\ООП_ЛР3_вар7\obj\Debug\net8.0-windows\ООП_ЛР3_вар7.csproj.CoreCompileInputs.cache
+D:\Projects\ООП_ЛР3_вар7\obj\Debug\net8.0-windows\ООП_ЛР3_вар7.dll
+D:\Projects\ООП_ЛР3_вар7\obj\Debug\net8.0-windows\refint\ООП_ЛР3_вар7.dll
+D:\Projects\ООП_ЛР3_вар7\obj\Debug\net8.0-windows\ООП_ЛР3_вар7.pdb
+D:\Projects\ООП_ЛР3_вар7\obj\Debug\net8.0-windows\ООП_ЛР3_вар7.genruntimeconfig.cache
+D:\Projects\ООП_ЛР3_вар7\obj\Debug\net8.0-windows\ref\ООП_ЛР3_вар7.dll
+D:\Projects\ООП_ЛР3_вар7\obj\Debug\net8.0-windows\ООП_ЛР3_вар7.Form2.resources
