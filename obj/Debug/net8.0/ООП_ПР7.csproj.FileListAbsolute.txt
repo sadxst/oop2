@@ -1,0 +1,14 @@
+D:\Projects\ООП_ПР7\bin\Debug\net8.0\ООП_ПР7.exe
+D:\Projects\ООП_ПР7\bin\Debug\net8.0\ООП_ПР7.deps.json
+D:\Projects\ООП_ПР7\bin\Debug\net8.0\ООП_ПР7.runtimeconfig.json
+D:\Projects\ООП_ПР7\bin\Debug\net8.0\ООП_ПР7.dll
+D:\Projects\ООП_ПР7\bin\Debug\net8.0\ООП_ПР7.pdb
+D:\Projects\ООП_ПР7\obj\Debug\net8.0\ООП_ПР7.GeneratedMSBuildEditorConfig.editorconfig
+D:\Projects\ООП_ПР7\obj\Debug\net8.0\ООП_ПР7.AssemblyInfoInputs.cache
+D:\Projects\ООП_ПР7\obj\Debug\net8.0\ООП_ПР7.AssemblyInfo.cs
+D:\Projects\ООП_ПР7\obj\Debug\net8.0\ООП_ПР7.csproj.CoreCompileInputs.cache
+D:\Projects\ООП_ПР7\obj\Debug\net8.0\ООП_ПР7.dll
+D:\Projects\ООП_ПР7\obj\Debug\net8.0\refint\ООП_ПР7.dll
+D:\Projects\ООП_ПР7\obj\Debug\net8.0\ООП_ПР7.pdb
+D:\Projects\ООП_ПР7\obj\Debug\net8.0\ООП_ПР7.genruntimeconfig.cache
+D:\Projects\ООП_ПР7\obj\Debug\net8.0\ref\ООП_ПР7.dll
