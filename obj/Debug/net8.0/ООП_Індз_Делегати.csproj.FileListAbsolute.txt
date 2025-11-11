@@ -1,0 +1,14 @@
+D:\Projects\ООП_Індз_Делегати\bin\Debug\net8.0\ООП_Індз_Делегати.exe
+D:\Projects\ООП_Індз_Делегати\bin\Debug\net8.0\ООП_Індз_Делегати.deps.json
+D:\Projects\ООП_Індз_Делегати\bin\Debug\net8.0\ООП_Індз_Делегати.runtimeconfig.json
+D:\Projects\ООП_Індз_Делегати\bin\Debug\net8.0\ООП_Індз_Делегати.dll
+D:\Projects\ООП_Індз_Делегати\bin\Debug\net8.0\ООП_Індз_Делегати.pdb
+D:\Projects\ООП_Індз_Делегати\obj\Debug\net8.0\ООП_Індз_Делегати.GeneratedMSBuildEditorConfig.editorconfig
+D:\Projects\ООП_Індз_Делегати\obj\Debug\net8.0\ООП_Індз_Делегати.AssemblyInfoInputs.cache
+D:\Projects\ООП_Індз_Делегати\obj\Debug\net8.0\ООП_Індз_Делегати.AssemblyInfo.cs
+D:\Projects\ООП_Індз_Делегати\obj\Debug\net8.0\ООП_Індз_Делегати.csproj.CoreCompileInputs.cache
+D:\Projects\ООП_Індз_Делегати\obj\Debug\net8.0\ООП_Індз_Делегати.dll
+D:\Projects\ООП_Індз_Делегати\obj\Debug\net8.0\refint\ООП_Індз_Делегати.dll
+D:\Projects\ООП_Індз_Делегати\obj\Debug\net8.0\ООП_Індз_Делегати.pdb
+D:\Projects\ООП_Індз_Делегати\obj\Debug\net8.0\ООП_Індз_Делегати.genruntimeconfig.cache
+D:\Projects\ООП_Індз_Делегати\obj\Debug\net8.0\ref\ООП_Індз_Делегати.dll

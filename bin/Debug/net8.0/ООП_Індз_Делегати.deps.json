@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "ООП_Індз_Делегати/1.0.0": {
+        "runtime": {
+          "ООП_Індз_Делегати.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "ООП_Індз_Делегати/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
